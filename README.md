@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/His/Him
 - ⚡ Fun fact: ... I can blow underwater bubble-rings big enough to swim through
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=werernblake)](https://github.com/wernerblake/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=werernblake)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Blake!
+## Hey there 👋, I'm Blake!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wernerblake&label=Profile%20views&color=0e75b6&style=flat" alt="wernerblake" /> </p>
 
 #### Welcome to my profile 💻
@@ -8,7 +8,7 @@
 * Full Stack Enthusiast  👨‍💻
 * **Hobbies**: 🏊‍♂️ and 🎮
 
-# Software Development Background ⚒
+## Software Development Background 🔥
 
 ### Languages 👀
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -36,7 +36,7 @@
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 
-# Repository Insights 💻
+## Repository Insights 💻
 
 |<img src="https://github-readme-stats.vercel.app/api?username=wernerblake&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wernerblake"/>|
 |---|---|

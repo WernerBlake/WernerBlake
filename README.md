@@ -13,6 +13,11 @@
 
 [![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=wernerblake)](https://github.com/anuraghazra/github-readme-stats)
 
+### Most Used Languages 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1362000&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)
+
+
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div align="center">

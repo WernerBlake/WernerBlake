@@ -44,8 +44,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernerblake&layout=compact&theme=white"/>
 
 
-<center>
-### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+###<center>
+Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 </center>
 <div align="center">
  <a href="https://www.linkedin.com/in/blakecwerner/" target="_blank">

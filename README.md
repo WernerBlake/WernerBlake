@@ -3,7 +3,8 @@
 
 #### Welcome to my profile 💻
 * Bachelor of Science in Computer Science, Seattle University Class of 2021 🎓
-* US Navy ⚓ Helicopter Rescue Swimmer Veteran 🚁
+* US Navy Veteran ⚓ 
+* Ex - Helicopter Rescue Swimmer 🚁
 * Full Stack Enthusiast  👨‍💻
 * **Hobbies**: 🏊‍♂️ and 🎮
 

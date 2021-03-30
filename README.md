@@ -8,7 +8,7 @@
 * Full Stack Enthusiast  👨‍💻
 * **Hobbies**: 🏊‍♂️ and 🎮
 
-## Repo Insights ⚒
+## Software Development Background ⚒
 
 ### Languages 👀
 
@@ -42,7 +42,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=wernerblake&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wernerblake"/>|
 |---|---|
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernerblake&layout=compact&theme=white"/></p>
+## <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernerblake&layout=compact&theme=white"/></p>
 
 
 # <p align="center">Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"><p>

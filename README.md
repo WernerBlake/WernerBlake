@@ -34,7 +34,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=wernerblake&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wernerblake"/>|
 |---|---|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1362000&layout=compact&theme=white)](https://github.com/Akash1362000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wernerblake&layout=compact&theme=white)](https://github.com/Akash1362000)
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 

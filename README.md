@@ -23,4 +23,28 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wernerblake)](https://github.com/anuraghazra/github-readme-stats)
+[![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=wernerblake)](https://github.com/anuraghazra/github-readme-stats)
+
+### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/blakecwerner/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Akash Shrivastava linkedin style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://github.com/wernerblake" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Akash Shrivastava GitHub style="margin-bottom: 5px;" />
+</a>
+  
+ <a href="https://twitter.com/Buh_Lok_Aye" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Akash Shrivastava twitter style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:wernerblakec@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Akash Shrivastava gmail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/beake_w/\" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Akash Shrivastava Instagram style="margin-bottom: 5px;" />
+</a>
+                                                                                                                                                

@@ -1,5 +1,7 @@
 ### Hey there 👋, I'm Blake!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wernerblake&label=Profile%20views&color=0e75b6&style=flat" alt="wernerblake" /> </p>
+
 ## Repository Insights 💻
 
 

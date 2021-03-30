@@ -74,6 +74,6 @@
 <img src=https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white alt=Blake Werner Steam style="margin-bottom: 5px;" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://steamcommunity.com/id/BlakeWerner/" target="_blank">
 <img src=https://img.shields.io/badge/H2OConnoisseur#6319%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=Blake Werner Discord style="margin-bottom: 5px;" />
 </a>

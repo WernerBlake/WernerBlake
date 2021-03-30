@@ -74,5 +74,5 @@
 <img src=https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white alt=Blake Werner Steam style="margin-bottom: 5px;" />
 </a>
 
-<img src=https://img.shields.io/badge/%3CH2OConnoisseur#6319%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=Blake Werner Discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/%3C-H2OConnoisseur#6319-%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=Blake Werner Discord style="margin-bottom: 5px;" />
 </a>

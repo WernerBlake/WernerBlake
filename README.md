@@ -75,5 +75,5 @@
 </a>
 
 <a href="https://steamcommunity.com/id/BlakeWerner/" target="_blank">
-<img src=https://img.shields.io/badge/H2OConnoisseur#6319%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=Blake Werner Discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/H2OConnoisseur%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=Blake Werner Discord style="margin-bottom: 5px;" />
 </a>

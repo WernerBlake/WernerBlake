@@ -27,7 +27,8 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![]()
+
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![]()
 ![]()
 ![]()
@@ -71,4 +72,7 @@
 
 <a href="https://steamcommunity.com/id/BlakeWerner/" target="_blank">
 <img src=https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white alt=Blake Werner Steam style="margin-bottom: 5px;" />
+</a>
+
+<img src=https://img.shields.io/badge/H2OConnoisseur#6319%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=Blake Werner Discord style="margin-bottom: 5px;" />
 </a>

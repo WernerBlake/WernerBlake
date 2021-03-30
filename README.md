@@ -1,12 +1,10 @@
-### Hey there 👋, I'm Blake!
+## Hey there 👋, I'm Blake!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wernerblake&label=Profile%20views&color=0e75b6&style=flat" alt="wernerblake" /> </p>
 
-## Repository Insights 💻
-
+##
 
 ### Languages 👀
-
 
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
@@ -32,6 +30,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+
+## Repository Insights 💻
 
 |<img src="https://github-readme-stats.vercel.app/api?username=wernerblake&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wernerblake"/>|
 |---|---|

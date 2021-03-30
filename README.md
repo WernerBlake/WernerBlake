@@ -1,9 +1,7 @@
 ## Hey there 👋, I'm Blake!
-
-#### Welcome to my profile 💻
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wernerblake&label=Profile%20views&color=0e75b6&style=flat" alt="wernerblake" /> </p>
 
+#### Welcome to my profile 💻
 * Bachelor of Science in Computer Science, Seattle University Class of 2021 🎓
 * US Navy ⚓ Helicopter Rescue Swimmer Veteran 🚁
 * Full Stack Enthusiast  👨‍💻

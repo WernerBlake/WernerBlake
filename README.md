@@ -35,7 +35,7 @@
 
 |<img src="https://github-readme-stats.vercel.app/api?username=wernerblake&&show_icons=true&count_private=true&include_all_commits=true"/>|
 |---|
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wernerblake"/>|
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wernerblake"/>
 |---|
 |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wernerblake&layout=compact&theme=white"/>|
 

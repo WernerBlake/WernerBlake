@@ -40,10 +40,10 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=wernerblake&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wernerblake"/>|
 |---|---|
 
-## <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WernerBlake&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)</p>
+## <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WernerBlake&layout=compact&theme=white"/></p>
 
 
-# <p align="center">Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="48px"><p>
+# <p align="center">Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="48px"></p>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/blakecwerner/" target="_blank">
